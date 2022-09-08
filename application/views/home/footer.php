@@ -2,7 +2,7 @@
 <footer>
   <div class="footer-bottom">
     <div id="bottom-footer">
-      <div class="copyright"> Copyright - <a class="yourstore" href="http://www.timkoding.com/"> Tim Koding Indonesia &copy; <?= date('Y') ?> </a></div>
+      <div class="copyright"> Copyright - PKM KI Cendekiawan Canggih &copy; <?= date('Y') ?> </div>
       <div class="footer-bottom-cms">
         <div class="footer-payment">
           <ul>

@@ -1,3 +1,12 @@
+@font-face {
+	font-family: 'Montserrat';
+	src: 
+		 url('assets_home/font/Montserrat-Regular.ttf') format('truetype'),
+		 url("<?php echo base_url(); ?>assets_home/font/Montserrat-Regular.ttf") format('truetype'),
+		 url("<?php echo base_url(); ?>assets_home/font/Montserrat-Bold.ttf") format('truetype'),
+		 url('assets_home/font/Montserrat-Bold.ttf') format('truetype');
+  }
+
 body {
 	font-family: "Montserrat", Helvetica, Arial, sans-serif;
 	font-weight: 400;
@@ -2504,7 +2513,6 @@ article, .author {
 }
 .load-more-wrapper {
 	display: inline-block;
- text-align;
 	text-align: center;
 	width: 100%;
 }

@@ -9,7 +9,7 @@
 <link href="<?php echo base_url(); ?>assets_home/image/favicon.png" rel="icon" type="image/png" >
 <link href="<?php echo base_url(); ?>assets_home/css/bootstrap.min.css" rel="stylesheet" media="screen" />
 <link href="<?php echo base_url(); ?>assets_home/javascript/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css" />
-<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet"/>
+<!-- <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet"/> -->
 <link href="<?php echo base_url(); ?>assets_home/css/stylesheet.css" rel="stylesheet">
 <link href="<?php echo base_url(); ?>assets_home/css/responsive.css" rel="stylesheet">
 <link href="<?php echo base_url(); ?>assets_home/javascript/owl-carousel/owl.carousel.css" type="text/css" rel="stylesheet" media="screen" />
@@ -19,8 +19,8 @@
   ul{ margin:0; padding:0; }
 li{ cursor:pointer; list-style-type: none; display: inline-block; color: #F0F0F0; text-shadow: 0 0 1px #666666;}
 </style>
-<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js" ></script>
-<!-- <script type="text/javascript" src="<?php echo base_url(); ?>assets_home/javascript/jquery-2.1.1.min.js" ></script> -->
+<!-- <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js" ></script> -->
+<script type="text/javascript" src="<?php echo base_url(); ?>assets_home/javascript/jquery-2.1.1.min.js" ></script>
 <script>
   function highlightStar(obj,id) {
     removeHighlight(id);    
